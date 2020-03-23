@@ -1,0 +1,2 @@
+# MoneyBall-Capstone-Project
+In this project we'll work with some data and with the goal of trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.  The main goal of this project is for you to feel comfortable working with R on real data to try and derive actionable insights!
